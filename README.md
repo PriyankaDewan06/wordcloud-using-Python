@@ -1,3 +1,5 @@
 # wordcloud-using-Python
 This project was part of my Crash course on Python by Google Course.
 A word cloud is a popular visualization of words typically associated with Internet keywords and text data. They are most commonly used to highlight popular or trending terms based on frequency of use and prominence. A word cloud is a beautiful, informative image that communicates much in a single glance.
+# wordcloud-using-Python2
+ghfgdgghdghdjgdjgfhgkgjkghlkh;k
