@@ -1,0 +1,3 @@
+In order to demonstrate the possibilities of wordclouds, some text data is required. For the purposes of this tutorial, I've chosen to use the text of Addie's Husband or Through Clouds to Sunshine, a novel by Mrs. Gordon Smythies, one of the most popular and most forgotten of Victorian novelists.
+
+You can find a copy of Addie's Husband on Amazon or on Project Gutenberg. It's the affecting story of Adelaide, a young woman with bad lungs but a good heart. I accessed the text from Project Gutenberg, using the excellent Gutenberg Python library.
